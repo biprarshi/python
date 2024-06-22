@@ -1,0 +1,6 @@
+# print("tata")
+print(b"toto\xfe\775")
+print("toto\xfe\775")
+print(b"\u09ac\u09be\u0983")
+print("\u09ac\u09be\u0983")
+print("\09ac \u09ac")
